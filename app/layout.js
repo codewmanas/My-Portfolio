@@ -1,19 +1,19 @@
-import { Outfit, Ovo} from "next/font/google";
+import { Outfit, Ovo, Archivo } from "next/font/google";
 import "./globals.css";
 
 const outfit = Outfit({
-  subsets: ["latin"], weight: ["400", "500", "600", "700"]
+  subsets: ["sans-serif"], weight: ["400", "500", "600", "700"]
 });
 
 const ovo = Ovo({
-  subsets: ["latin"], weight: ["400"]
+  subsets: ["sans-serif"], weight: ["400"]
 });
 
 
 
 export const metadata = {
   title: "Manas Kolaskar",
-  description: "",
+  description: "Personal Portfolio of Manas Kolaskar",
 };
 
 export default function RootLayout({ children }) {
