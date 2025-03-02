@@ -42,7 +42,7 @@ const About = ({isDarkMode}) => {
             transition={{duration: 0.6, delay: 0.8}}
             className='flex-1'>
                 <p className='mb-10 max-w-2xl font-Ovo'
-                >I am an experienced Frontend Developer with over a decade of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.</p>
+                >I am Manas, an aspiring AI Engineer and Software Engineer with a strong foundation in Full-Stack Development, Mobile Development, and AI/ML. I have experience working on UI/UX design, web development, and data science, combining technical expertise with a creative mindset. My work includes developing responsive web applications like SIIF Events and Nazariya, as well as designing graphics for newsletters, social media, and merchandise. I am currently expanding my skill set in React.js, Next.js, React Native, and Flutter, while also exploring ASP.NET and full-stack application development. With a passion for innovation, I aim to build intelligent and scalable solutions that bridge the gap between technology and user experience.</p>
 
                 <motion.ul
                 initial={{opacity: 0}}
