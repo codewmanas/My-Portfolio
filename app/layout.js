@@ -14,6 +14,7 @@ const ovo = Ovo({
 export const metadata = {
   title: "Manas Kolaskar",
   description: "Personal Portfolio of Manas Kolaskar",
+  image: "assets/logo.png"
   
 };
 
